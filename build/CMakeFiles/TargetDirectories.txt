@@ -1,0 +1,6 @@
+/home/viktor/Projects/c+c++/HW №1/build/CMakeFiles/rebuild_cache.dir
+/home/viktor/Projects/c+c++/HW №1/build/CMakeFiles/edit_cache.dir
+/home/viktor/Projects/c+c++/HW №1/build/CMakeFiles/test.dir
+/home/viktor/Projects/c+c++/HW №1/build/CMakeFiles/fib_test.dir
+/home/viktor/Projects/c+c++/HW №1/build/CMakeFiles/main.dir
+/home/viktor/Projects/c+c++/HW №1/build/CMakeFiles/fib.dir

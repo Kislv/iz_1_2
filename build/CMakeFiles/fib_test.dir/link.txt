@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/fib_test.dir/fib_test.cpp.o  -o fib_test  -lgtest -lpthread /usr/lib/x86_64-linux-gnu/libgtest.a libfib.a 
