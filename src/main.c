@@ -1,0 +1,30 @@
+#include "stdio.h"
+#include "stdlib.h"
+#include "../include/input_output.h"
+
+int main(){
+    int tasks_amount = 0;
+    struct info_develop* tasks_array = input_devs(&tasks_amount);
+    sort_tasks_array(tasks_array,tasks_amount);
+    for(int i = 0;i< tasks_amount; ++i){
+        output_dev(&tasks_array[i]);
+    }
+
+    for(int i = 0;i< tasks_amount; ++i){
+        free_dev( &tasks_array, i);
+    }
+    free(tasks_array);
+    //struct info_develop *task1 = input_dev();
+    //output_dev(task1);
+    //free_dev(&task1);
+
+    return 0;
+}
+
+/*
+ *     char str1[5] ="5738";
+    char *pstr = str1;
+    if(string_is_int(pstr)){
+        printf("%d",string_to_int(pstr));
+    }
+ */
