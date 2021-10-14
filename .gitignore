@@ -1,0 +1,4 @@
+.vscode
+/build
+fib.o
+fib.cpp

@@ -1,5 +1,0 @@
-/opt/CLion/CLion-2021.2.2/clion-2021.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/home/viktor/Projects/c+c++/HW №1"
--- Found GTest: /usr/lib/x86_64-linux-gnu/libgtest.a  
--- Configuring done
--- Generating done
--- Build files have been written to: /home/viktor/Projects/c+c++/HW №1/cmake-build-debug
