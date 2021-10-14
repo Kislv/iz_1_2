@@ -14,9 +14,6 @@ int main(){
         free_dev( &tasks_array, i);
     }
     free(tasks_array);
-    //struct info_develop *task1 = input_dev();
-    //output_dev(task1);
-    //free_dev(&task1);
 
     return 0;
 }
