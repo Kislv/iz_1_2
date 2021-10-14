@@ -17,11 +17,3 @@ int main(){
 
     return 0;
 }
-
-/*
- *     char str1[5] ="5738";
-    char *pstr = str1;
-    if(string_is_int(pstr)){
-        printf("%d",string_to_int(pstr));
-    }
- */
